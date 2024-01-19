@@ -7,3 +7,12 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : erika
 */
 
+h1 {
+    font-family: Arial;
+    font-size: 20pt;
+}
+
+li {
+    font-family: Arial;
+    font-size: 12pt;
+}
